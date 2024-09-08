@@ -21,7 +21,6 @@ The **React Dynamic Dashboard** is a React application designed to showcase prac
 
    ```bash
    git clone https://github.com/yourusername/react-dynamic-dashboard.git
-   cd react-dynamic-dashboard
 
 2. **Navigate to the project directory:**
 
